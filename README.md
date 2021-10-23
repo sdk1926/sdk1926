@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdk1926
-- 👀 I’m interested in python, Django
-- 🌱 I’m currently learning Database, OS, Django, Python
+- 👀 I’m interested in Java, Spring 
+- 🌱 I’m currently learning Database, OS, Java, Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
